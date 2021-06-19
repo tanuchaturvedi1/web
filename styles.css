@@ -1,0 +1,14 @@
+body {
+    margin: 15px;
+    overflow: hidden;
+  }
+  
+  .sphere {
+    fill: #089ef5;
+  }
+  
+  .country {
+    fill: rgb(92, 228, 92);
+    stroke: black;
+    stroke-opacity: 0.5;
+  }
