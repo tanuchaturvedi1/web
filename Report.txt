@@ -1,3 +1,24 @@
-Report of the web project!
+INTERNSHIP REPORT
 
-Let's do this!
+Team Members - Tanu Chaturvedi, Priti Satsangi, Ansh Kumar , Rishi Harsh Soni
+Education program - Engineering(with specialization in Computer Science)
+Class - 4th year 
+Internship dates - 
+Internship organisation - 
+Skills required - HTML, CSS, D3 , React , 
+
+Acknowledgement
+I want to thank my advisers and everyone at the company for their patience and assistance during my online training. Thanks to their guidance, I was able to develop and learn about [ web development using D3 and react]. These skills will help me to expand my resume and advance my career.
+
+Information about the company
+
+Information about the internship position
+As an intern with [the company], I worked in a [mention role] position and was responsible for [mention undertaken tasks]. I was part of the [mention department] team. Together we worked on [name them] projects to accomplish [mention end goal].
+
+Description of internship experience
+
+Conclusion - Task to do!
+
+1. Making a World Map with D3.
+2. Get lists of all the required data , which is being use in the data visualization.
+3. Design a layout of the web page .
