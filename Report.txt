@@ -5,7 +5,7 @@ Education program - Engineering(with specialization in Computer Science)
 Class - 4th year 
 Internship dates - 
 Internship organisation - 
-Skills required - HTML, CSS, D3 , React , 
+Skills required - Jupyter Notebook, Data Visualization and Analysis using python 
 
 Acknowledgement
 I want to thank my advisers and everyone at the company for their patience and assistance during my online training. Thanks to their guidance, I was able to develop and learn about [ web development using D3 and react]. These skills will help me to expand my resume and advance my career.
@@ -19,6 +19,6 @@ Description of internship experience
 
 Conclusion - Task to do!
 
-1. Making a World Map with D3.
+1. Data Analysis
 2. Get lists of all the required data , which is being use in the data visualization.
 3. Design a layout of the web page .
