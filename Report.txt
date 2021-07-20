@@ -19,6 +19,6 @@ Description of internship experience
 
 Conclusion - Task to do!
 
-1. Data Analysis
+1. Data Analysis and visualization 
 2. Get lists of all the required data , which is being use in the data visualization.
-3. Design a layout of the web page .
+3. Design a layout of the web page by css
